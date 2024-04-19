@@ -1,0 +1,7 @@
+Company,ticker,price,website
+Tesla Inc,TSLA,164.9,"['https://www.google.com/finance/quote/TSLA:NASDAQ', 'https://www.yahoo.com/finance/quote/TSLA']"
+Intel Corp,INTC,38.71,"['https://www.google.com/finance/quote/INTC:NASDAQ', 'https://www.yahoo.com/finance/quote/INTC']"
+"Advanced Micro Devices, Inc.",AMD,170.42,"['https://www.google.com/finance/quote/AMD:NASDAQ', 'https://www.yahoo.com/finance/quote/AMD']"
+Invesco QQQ Trust Series 1,QQQ,440.47,"['https://www.google.com/finance/quote/QQQ:NASDAQ', 'https://www.yahoo.com/finance/quote/QQQ']"
+Paramount Global Class B,PARA,11.97,"['https://www.google.com/finance/quote/PARA:NASDAQ', 'https://www.yahoo.com/finance/quote/PARA']"
+Ford Motor Co,F,13.28,"['https://www.google.com/finance/quote/F:NYSE', 'https://www.yahoo.com/finance/quote/F']"
